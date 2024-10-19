@@ -1,0 +1,1 @@
+A directory to store scraped data (e.g., CSV, JSON files).
